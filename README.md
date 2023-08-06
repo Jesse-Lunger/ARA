@@ -8,3 +8,5 @@ Every other repo I have linked, it is either purely my work, or work that I dire
 
 For my contribution I worked on the document manager that repackaged jsons file to lists to be saved in a SQL database, in addition it would
 save the information locally and update the database when connected. 
+
+On request I can provide more information of my contribution in private.
